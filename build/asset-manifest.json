@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/AnamZ78/Todo-list.git/static/js/main.64c83cc2.chunk.js",
+    "main.js.map": "/AnamZ78/Todo-list.git/static/js/main.64c83cc2.chunk.js.map",
+    "runtime-main.js": "/AnamZ78/Todo-list.git/static/js/runtime-main.0237fc50.js",
+    "runtime-main.js.map": "/AnamZ78/Todo-list.git/static/js/runtime-main.0237fc50.js.map",
+    "static/js/2.61ae90a2.chunk.js": "/AnamZ78/Todo-list.git/static/js/2.61ae90a2.chunk.js",
+    "static/js/2.61ae90a2.chunk.js.map": "/AnamZ78/Todo-list.git/static/js/2.61ae90a2.chunk.js.map",
+    "index.html": "/AnamZ78/Todo-list.git/index.html",
+    "precache-manifest.7e17626d5ca3c6e160916f184338e473.js": "/AnamZ78/Todo-list.git/precache-manifest.7e17626d5ca3c6e160916f184338e473.js",
+    "service-worker.js": "/AnamZ78/Todo-list.git/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0237fc50.js",
+    "static/js/2.61ae90a2.chunk.js",
+    "static/js/main.64c83cc2.chunk.js"
+  ]
+}
